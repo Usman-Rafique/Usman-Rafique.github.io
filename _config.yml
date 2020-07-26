@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M. Usman Rafique's Website"
+title                    : # "M. Usman Rafique's Website"
 title_separator          : "-"
 name                     : &name "M. Usman Rafique"
 description              : &description "personal description"
