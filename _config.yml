@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : # "M. Usman Rafique's Website"
+title                    : "M. Usman Rafique"
 title_separator          : "-"
 name                     : &name "M. Usman Rafique"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "M. Usman Rafique"
   avatar           : "Usman_2.JPG"
-  bio              : "Computer Vision and Machine Learning Researcher"
+  bio              : "PhD Candidate: Computer Vision & Machine Learning"
   location         : "Lexington, Kentucky"
   employer         :
   pubmed           : 
