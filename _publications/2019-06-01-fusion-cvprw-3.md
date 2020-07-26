@@ -13,11 +13,11 @@ This work addresses the problem of combining noisy overhead images to make a sin
 [Download paper here](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)
 
 Recommended citation:
-```
+<pre>
 @inproceedings{usman2019weakly,
   title={Weakly Supervised Fusion of Multiple Overhead Images},
   author={Usman Rafique, Muhammad and Blanton, Hunter and Jacobs, Nathan},
   booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
   year={2019}
 }
-```
+</pre>
