@@ -16,7 +16,7 @@ Recommended citation:
 <pre>
 @inproceedings{usman2019weakly,
   title={Weakly Supervised Fusion of Multiple Overhead Images},
-  author={Usman Rafique, Muhammad and Blanton, Hunter and Jacobs, Nathan},
+  author={Rafique, M. Usman and Blanton, Hunter and Jacobs, Nathan},
   booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
   year={2019}
 }
