@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2010-teaching-1
+venue: "Air University, Mechatronics Engineering"
+date: 2015-06-01
+location: "Islamabad, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a full-time lecturer at the Air University from 2010 to 2015. Here is a [link](https://sites.google.com/site/mtsengg/) to my old website that I maintained during teaching.
 
-Heading 1
+Courses
 ======
+## Embedded Systems
+## Mechatronic System Design
+## Applied Mechatronics
 
-Heading 2
+Senior Design Supervision
 ======
+I supervsied several senior design projects. If you are curious about old robotics project, you can find a list of projects [here](https://sites.google.com/site/mtsengg/projects)
 
-Heading 3
+Robot Competitions
 ======
+I organized and co-organized several robot competitions.
