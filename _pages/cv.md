@@ -15,12 +15,14 @@ Education
 * M.S. in Mechatronics Engineering, National University of Sciences and Technology, Pakistan, 2008 - 2010
 * Ph.D in Electrical Engineering, University of Kentucky, 2016 - 2021 (expected)
   
+  
 Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-    
+  
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
