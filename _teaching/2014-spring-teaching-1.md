@@ -1,5 +1,5 @@
 ---
-title: "Lecturer"
+title: "Lecturer, Mechatronics Engineering"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2010-teaching-1
