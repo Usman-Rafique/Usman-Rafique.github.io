@@ -2,7 +2,7 @@
 title: "Lecturer, Mechatronics Engineering"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/2010-teaching-1
+permalink: /teaching/au-1
 venue: "Air University, Mechatronics Engineering"
 date: 2015-06-01
 location: "Islamabad, Pakistan"
