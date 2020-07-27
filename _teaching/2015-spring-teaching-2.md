@@ -8,9 +8,9 @@ date: 2018-01-01
 location: "Lexington, Kentucky"
 ---
 
-I was part of a team of 4 instructors that conducted the capstone project at the [Electrical and Computer Engineering](https://www.engr.uky.edu/research-faculty/departments/electrical-computer-engineering) at the University of Kentucky. I worked as an instructor for 2 years, from 2016 to 2018.
+I was part of a team of 4 instructors that conducted the capstone design courses at the [Electrical and Computer Engineering](https://www.engr.uky.edu/research-faculty/departments/electrical-computer-engineering). I worked as an instructor for 2 years, from 2016 to 2018.
 
-Capstone Project 1 & 2
+ECE Capstone Design 1 & 2
 ======
 My responsibilities included
 * Discussing project progress with teams
