@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor, University of Kentucky"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/uk-1
+venue: "University of Kentucky, Electrical Engineering"
+date: 2018-01-01
+location: "Lexington, Kentucky"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was part of a team of 4 instructors that conducted the capstone project at the [Electrical and Computer Engineering](https://www.engr.uky.edu/research-faculty/departments/electrical-computer-engineering) at the University of Kentucky. I worked as an instructor for 2 years, from 2016 to 2018.
 
-Heading 1
+Capstone Project 1 & 2
 ======
+My responsibilities included
+* Discussing project progress with teams
+* Grading lab notebooks and giving feedback
+* Attending and grading proposal, progress, and final presentation
+* Grading individual research reports
+* Grading team reports
 
-Heading 2
-======
-
-Heading 3
-======
+This experience was similar to my [previous teaching experience](http://urafique.com/teaching/2010-teaching-1). Many ECE students chose projects related to robotics and computer vision and I was glad to be involved in this.
