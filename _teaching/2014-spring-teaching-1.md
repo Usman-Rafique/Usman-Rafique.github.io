@@ -12,9 +12,9 @@ I was a full-time lecturer at the Air University from 2010 to 2015. Here is a [l
 
 Courses
 ======
-## Embedded Systems
-## Mechatronic System Design
-## Applied Mechatronics
+* Embedded Systems
+* Mechatronic System Design
+* Applied Mechatronics
 
 Senior Design Supervision
 ======
