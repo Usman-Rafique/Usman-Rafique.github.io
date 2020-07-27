@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Upcoming Blog Post'
+date: 2020-08-01
+permalink: /posts/2020-08-01/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - coming soon
+  - computer vision
+  - machine learning
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This blog post will be released soon.
