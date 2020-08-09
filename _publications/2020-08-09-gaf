@@ -1,7 +1,7 @@
 ---
 title: "Generative Appearance Flow: A Hybrid Approach for Outdoor View Synthesis"
 collection: publications
-permalink: /gaf
+permalink: /publications/gaf
 excerpt: 'We propose a novel architecture that includes flow-based and direct synthesis sub-networks for novel view synthesis.'
 date: 2020-08-09
 venue: 'The British Machine Vision Conference (BMVC), 2020'
