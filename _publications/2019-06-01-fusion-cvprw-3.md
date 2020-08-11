@@ -8,7 +8,7 @@ venue: 'IEEE Conference on Computer Vision and Pattern Recognition Workshops (CV
 ---
 &emsp; &emsp; [Muhammad Usman Rafique](http://urafique.com), &emsp; [Hunter Blanton](hblanton.github.io/), &emsp; [Nathan Jacobs](https://jacobsn.github.io/)
 
-##  &emsp;  &emsp; &emsp;  &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;   &emsp; [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)   &emsp;  &emsp;      [[Code]](https://github.com/UkyVision/weakly-supervised-image-fusion)
+##  &emsp;  &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;   &emsp; [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)   &emsp;  &emsp;      [[Code]](https://github.com/UkyVision/weakly-supervised-image-fusion)
 
 ## Overview
 ![Fusion overview](/images/fusion19.png)
