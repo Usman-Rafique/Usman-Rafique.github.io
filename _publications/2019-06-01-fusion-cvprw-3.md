@@ -5,7 +5,6 @@ permalink: /publication/2019-Fusion-CVPRW
 excerpt: 'This paper proposes an image fusion method to combine multiple overhead images to make a single good looking image. Our method is weakly supervised; it learns to removes clouds and other artifacts from images with limited labels.'
 date: 2019-06-01
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), EarthVision'
-paperurl: 'http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf'
 ---
 ## [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EarthVision/Rafique_Weakly_Supervised_Fusion_of_Multiple_Overhead_Images_CVPRW_2019_paper.pdf)          [Code](https://github.com/UkyVision/weakly-supervised-image-fusion)
 
