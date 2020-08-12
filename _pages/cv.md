@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Detailed CV [available here](#)
+## Detailed CV [available here](#)
 
 {% include base_path %}
 
