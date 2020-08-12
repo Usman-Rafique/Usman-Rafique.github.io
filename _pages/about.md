@@ -19,4 +19,4 @@ I am a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) w
 * December 10, 2019: successfully defended my dissertation proposal 
 * June 17, 2019: presented my [paper](http://urafique.com/publication/2019-Fusion-CVPRW) at [EarthVision 2020](https://www.grss-ieee.org/earthvision2019/) at [CVPR 2019](http://cvpr2019.thecvf.com/) in Long Beach, CA
 * April 5, 2019: paper accepted to [IEEE International Geosciences and Remote Sensing Symposium (IGARSS) 2019](https://igarss2019.org/Default.asp)
-* April 4, 2019: [paper](http://urafique.com/publication/2019-Fusion-CVPRW) accepted at [EarthVision 2020](https://www.grss-ieee.org/earthvision2019/) held in conjunction with [CVPR 2019](http://cvpr2019.thecvf.com/)
+* April 4, 2019: [paper](http://urafique.com/publication/2019-Fusion-CVPRW) accepted at [EarthVision Workshop 2019](https://www.grss-ieee.org/earthvision2019/) held in conjunction with [CVPR 2019](http://cvpr2019.thecvf.com/)
