@@ -15,7 +15,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 ## Research Projects
 [Novel View Synthesis](http://urafique.com/gaf/)
-
+&nbsp;
 <a href="http://urafique.com/gaf/">
   <img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/> 
 </a>
@@ -36,6 +36,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 
 ## Recent News
+* December 12, 2020: gave a talk on ["Automatic Identification of Sinkholes Using Deep Learning from Remote Sensing Data"](https://www.research.uky.edu/events/kgs-seminar-junfeng-zhu-and-muhammad-u-rafique-automatic-identification-sinkholes-using-deep) at [Kentucky Geological Survey](http://www.uky.edu/KGS/index.php)
 * July 31, 2020: paper accepted to [BioImage Computing (BIC) workshop](https://www.bioimagecomputing.com/) held at [ECCV 2020](https://eccv2020.eu/)
 * July 29, 2020: [paper](http://urafique.com/gaf/) accpeted to [The British Machine Vision Conference (BMVC) 2020](https://bmvc2020.github.io/)
 * March 29, 2020: [paper](http://urafique.com/cloud20/) accepted to [IEEE International Geosciences and Remote Sensing Symposium (IGARSS) 2020](https://igarss2020.org/)
