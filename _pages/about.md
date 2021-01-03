@@ -14,10 +14,21 @@ I am a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) w
 My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/) (no longer maintained).
 
 ## Research Projects
+### [Novel View Synthesis](http://urafique.com/gaf/)
+<a href="http://urafique.com/gaf/">
+<img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/> 
+</a>
 
-<img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/>  <img src="/images/fusion_teaser.png" alt="Fusion" width="320"/> <img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="320"/>
+### [Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW)
+<a href="http://urafique.com/publication/2019-Fusion-CVPRW">
+<img src="/images/fusion_teaser.png" alt="Fusion" width="320"/>
+</a>
 
-[Novel View Synthesis](http://urafique.com/gaf/) &emsp; [Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW) &emsp; &emsp; [Semantic Segmentation](http://urafique.com/publication/weak-seg)
+### [Weakly Supervised Segmentation](http://urafique.com/publication/weak-seg)
+<a href="http://urafique.com/publication/weak-seg">
+<img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="320"/>
+</a>
+
 
 
 ## Recent News
