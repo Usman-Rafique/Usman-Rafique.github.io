@@ -16,6 +16,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 ## Research Projects
 [Novel View Synthesis](http://urafique.com/gaf/)
 &nbsp;
+
 <a href="http://urafique.com/gaf/">
   <img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/> 
 </a>
