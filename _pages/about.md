@@ -14,25 +14,27 @@ I am a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) w
 My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/) (no longer maintained).
 
 ## Research Projects
-### [Novel View Synthesis](http://urafique.com/gaf/)
+[Novel View Synthesis](http://urafique.com/gaf/)
+
 <a href="http://urafique.com/gaf/">
-<img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/> 
+  <img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/> 
 </a>
 
-### [Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW)
+[Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW)
+
 <a href="http://urafique.com/publication/2019-Fusion-CVPRW">
-<img src="/images/fusion_teaser.png" alt="Fusion" width="320"/>
+  <img src="/images/fusion_teaser.png" alt="Fusion" width="320"/>
 </a>
 
-### [Weakly Supervised Segmentation](http://urafique.com/publication/weak-seg)
+[Weakly Supervised Segmentation](http://urafique.com/publication/weak-seg)
+
 <a href="http://urafique.com/publication/weak-seg">
-<img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="320"/>
+  <img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="320"/>
 </a>
 
 
 
 ## Recent News
-
 * July 31, 2020: paper accepted to [BioImage Computing (BIC) workshop](https://www.bioimagecomputing.com/) held at [ECCV 2020](https://eccv2020.eu/)
 * July 29, 2020: [paper](http://urafique.com/gaf/) accpeted to [The British Machine Vision Conference (BMVC) 2020](https://bmvc2020.github.io/)
 * March 29, 2020: [paper](http://urafique.com/cloud20/) accepted to [IEEE International Geosciences and Remote Sensing Symposium (IGARSS) 2020](https://igarss2020.org/)
