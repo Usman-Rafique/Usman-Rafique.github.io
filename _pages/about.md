@@ -13,6 +13,13 @@ I am a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) w
 
 My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/) (no longer maintained).
 
+## Research Projects
+
+<img src="/images/GAF_teaser.jpg" alt="GAF" width="160"/>  <img src="/images/fusion_teaser.png" alt="Fusion" width="160"/> <img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="160"/>
+
+[Novel View Synthesis](http://urafique.com/gaf/) &nbsp; &nbsp; [Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW) &nbsp; &nbsp; [Semantic Segmentation](http://urafique.com/publication/weak-seg)
+
+
 ## Recent News
 
 * July 31, 2020: paper accepted to [BioImage Computing (BIC) workshop](https://www.bioimagecomputing.com/) held at [ECCV 2020](https://eccv2020.eu/)
