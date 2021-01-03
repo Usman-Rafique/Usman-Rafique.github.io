@@ -15,9 +15,9 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 ## Research Projects
 
-<img src="/images/GAF_teaser.jpg" alt="GAF" width="160"/>  <img src="/images/fusion_teaser.png" alt="Fusion" width="160"/> <img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="160"/>
+<img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/>  <img src="/images/fusion_teaser.png" alt="Fusion" width="320"/> <img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="320"/>
 
-[Novel View Synthesis](http://urafique.com/gaf/) &nbsp; &nbsp; [Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW) &nbsp; &nbsp; [Semantic Segmentation](http://urafique.com/publication/weak-seg)
+[Novel View Synthesis](http://urafique.com/gaf/) &emsp; [Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW) &emsp; &emsp; [Semantic Segmentation](http://urafique.com/publication/weak-seg)
 
 
 ## Recent News
