@@ -19,19 +19,20 @@ My old website from my teaching days is [available here](https://sites.google.co
 <a href="http://urafique.com/gaf/">
   <img src="/images/GAF_teaser.jpg" alt="GAF" width="320"/> 
 </a>
+&nbsp; &nbsp;
 
 [Multi-Image Fusion](http://urafique.com/publication/2019-Fusion-CVPRW)
 
 <a href="http://urafique.com/publication/2019-Fusion-CVPRW">
   <img src="/images/fusion_teaser.png" alt="Fusion" width="320"/>
 </a>
+&nbsp; &nbsp;
 
 [Weakly Supervised Segmentation](http://urafique.com/publication/weak-seg)
 
 <a href="http://urafique.com/publication/weak-seg">
   <img src="/images/Segmentation_teaser.jpg" alt="Segmentation" width="320"/>
 </a>
-
 
 
 ## Recent News
