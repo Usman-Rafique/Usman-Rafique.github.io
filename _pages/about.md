@@ -36,8 +36,8 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 
 ## Recent News
-* May 20, 2021: recognized as an [outstanding reviwer](http://cvpr2021.thecvf.com/node/184) for [CVPR 2021](http://cvpr2021.thecvf.com/)
-* April 11, 2021: paper (coming soon) acceptd to [NTIRE: New Trends in Image Restoration and Enhancement workshop and challenges at CVPR 2021](https://data.vision.ee.ethz.ch/cvl/ntire21/)
+* May 20, 2021: recognized as an [outstanding reviewer](http://cvpr2021.thecvf.com/node/184) for [CVPR 2021](http://cvpr2021.thecvf.com/)
+* April 11, 2021: paper (coming soon) acceptd to [NTIRE: New Trends in Image Restoration and Enhancement workshop and challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/) at [CVPR 2021](http://cvpr2021.thecvf.com/)
 * March 16, 2021: [paper](https://igarss2021.com/view_paper.php?PaperNum=3559) accepted to [IEEE International Geosciences and Remote Sensing Symposium (IGARSS) 2021](https://igarss2021.com/)
 * December 12, 2020: gave a talk on ["Automatic Identification of Sinkholes Using Deep Learning from Remote Sensing Data"](https://www.research.uky.edu/events/kgs-seminar-junfeng-zhu-and-muhammad-u-rafique-automatic-identification-sinkholes-using-deep) at [Kentucky Geological Survey](http://www.uky.edu/KGS/index.php)
 * July 31, 2020: paper accepted to [BioImage Computing (BIC) workshop](https://www.bioimagecomputing.com/) held at [ECCV 2020](https://eccv2020.eu/)
