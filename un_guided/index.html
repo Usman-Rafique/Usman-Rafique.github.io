@@ -1,1 +1,187 @@
-test
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Un_Guided Image Synthesis</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- <base href="/"> -->
+
+<!--     <link rel="apple-touch-icon" href="apple-touch-icon.png"> -->
+  <link rel="icon" type="image/png" href="icon.png">
+    <!-- Place favicon.ico in the root directory -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.css">
+    <link rel="stylesheet" href="app.css">
+
+    <link rel="stylesheet" href="bootstrap.min.css">
+
+</head>
+
+<body>
+    <div class="container" id="main">
+        <div class="row">
+            <h1 class="col-md-12 text-center">
+                Unifying Guided and Unguided Synthesis for Outdoor Image Synthesis
+                <small>
+                    NTIRE Workshop at CVPR 2021
+                </small>
+            </h1>
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline">
+                    <li>
+                        <a href="http://urafique.com/">
+                          Muhammad Usman Rafiqe
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://yuzhang03.github.io/">
+                          Yu Zhang
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://scholar.google.com/citations?user=U8YbF34AAAAJ">
+                          Benjamin Brodie
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://jacobsn.github.io/">
+                          Nathan Jacobs
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline">
+                    <li>
+                        University of Kentucky
+                    </li>
+                </ul>
+            </div>
+    </div>
+
+        <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <ul class="nav nav-pills nav-justified">
+                        <li>
+                            <a href="">
+                            <image src="paper.png" height="120px"><br>
+                                <h4><strong>Paper (coming soon)</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                            <image src="youtube_icon_dark.png" height="120px"><br>
+                                <h4><strong>Video (coming soon)</strong></h4>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                            <image src="github_pad.png" height="120px"><br>
+                                <h4><strong>Code [Coming Soon]</strong></h4>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Guided Synthesis Results
+                </h3>
+                <img src="guided.png" alt="Image results of guided synthesis" height="512">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Unguided Synthesis Results
+                </h3>
+                <img src="unguided.png" alt="Image results of guided synthesis" height="512">
+            </div>
+        </div>
+
+
+<!--         <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Links
+                </h3>
+            </div>
+        </div> -->
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Abstract
+                </h3>
+                <p class="text-justify">
+Given a source image, our goal is to synthesize novel images of the same scene under different conditions, which could include changes in the time of day, season, or weather conditions. We consider two variants, unguided and guided synthesis, both of which require a way to generate diverse output images that cover the range of possible conditions. For the former task, the layout of the output image should match the source image and the conditions should appear realistic. For the latter task, the conditions should match those of a provided auxiliary guidance image. We address both tasks simultaneously using a probabilistic formulation, with separate distributions for each task, and use an end-to-end training method. We draw samples from these distributions to synthesize plausible images of the source scene. We prepare a new large-scale dataset and propose three benchmark tasks.                </p>
+            </div>
+        </div>
+
+    <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                Approach Overview
+                </h3>
+                We propose a probabilistic approach for unguided and guided outdoor image synthesis. Our method generates diverse images using a single forward pass through a neural network.
+            <img src="overview.png" alt="overvew of our approach">
+
+            </div>
+        </div>
+
+    <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Technical Video
+                </h3>
+                    Coming Soon!
+                
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    BibTeX
+                </h3>
+                <div class="form-group col-md-10 col-md-offset-1">
+                    <textarea id="bibtex" class="form-control" readonly>
+@inproceedings{unifying2021,
+  title={Unifying Guided and Unguided Outdoor Image Synthesis},
+  author={Rafique, Muhammad Usman and Zhang, Yu and Brodie, Benjamin and Jacobs, Nathan},
+  booktitle=IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW),
+  year={2021}}
+</textarea>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Acknowledgements
+                </h3>
+                <br>
+                The website template was adopted from <a href="https://pratulsrinivasan.github.io/nerv/">NeRV</a> that borrowed it from <a href="http://mgharbi.com/">Michaël Gharbi</a>.
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
