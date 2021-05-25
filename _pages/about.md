@@ -14,6 +14,13 @@ I am a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) w
 My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/) (no longer maintained).
 
 ## Research Projects
+[Diverse View Synthesis](http://urafique.com/un_guided/)
+\
+<a href="http://urafique.com/un_guided/">
+  <img src="unguided/overview.png" alt="GAF" width="320"/> 
+</a>
+\
+\
 [Novel View Synthesis](http://urafique.com/gaf/)
 \
 <a href="http://urafique.com/gaf/">
@@ -37,7 +44,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 ## Recent News
 * May 20, 2021: recognized as an [outstanding reviewer](http://cvpr2021.thecvf.com/node/184) for [CVPR 2021](http://cvpr2021.thecvf.com/)
-* April 11, 2021: paper (coming soon) acceptd to [NTIRE: New Trends in Image Restoration and Enhancement workshop and challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/) at [CVPR 2021](http://cvpr2021.thecvf.com/)
+* April 11, 2021: [paper](http://urafique.com/un_guided/) acceptd to [NTIRE: New Trends in Image Restoration and Enhancement workshop and challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/) at [CVPR 2021](http://cvpr2021.thecvf.com/)
 * March 16, 2021: [paper](https://igarss2021.com/view_paper.php?PaperNum=3559) accepted to [IEEE International Geosciences and Remote Sensing Symposium (IGARSS) 2021](https://igarss2021.com/)
 * December 12, 2020: gave a talk on ["Automatic Identification of Sinkholes Using Deep Learning from Remote Sensing Data"](https://www.research.uky.edu/events/kgs-seminar-junfeng-zhu-and-muhammad-u-rafique-automatic-identification-sinkholes-using-deep) at [Kentucky Geological Survey](http://www.uky.edu/KGS/index.php)
 * July 31, 2020: paper accepted to [BioImage Computing (BIC) workshop](https://www.bioimagecomputing.com/) held at [ECCV 2020](https://eccv2020.eu/)
