@@ -17,7 +17,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 [Diverse View Synthesis](http://urafique.com/un_guided/)
 \
 <a href="http://urafique.com/un_guided/">
-  <img src="unguided/overview.png" alt="GAF" width="320"/> 
+  <img src="/unguided/overview.png" alt="Un_Guided" width="320"/> 
 </a>
 \
 \
