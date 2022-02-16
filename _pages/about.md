@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a researcher working on computer vision and machine learning. Broadly, my research is about combining information from multiple images for scene understanding and image synthesis. I did PhD from University of Kentucky. During PhD, I was a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) working with [Dr. Nathan Jacobs](https://jacobsn.github.io/). My co-advisor was [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung).
 
-I am currently working at Kitware as a senior research and development engineer. This is the link to [my Kitware page](https://www.kitware.com/usman-rafique/). 
+I am currently working at Kitware Inc. as a senior research and development engineer. This is the link to [my Kitware page](https://www.kitware.com/usman-rafique/). 
 
 My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/) (no longer maintained).
 
@@ -45,6 +45,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 ## Recent News
 * Feb 15, 2022: [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA002195) on sinkhole segmentation published to [AGU Earth and Space Science Journal](https://agupubs.onlinelibrary.wiley.com/)
 * Nov 24 2021: recognized as an [outstanding reviewer](https://www.bmvc2021-virtualconference.com/people/reviewers/) for BMVC 2021. 
+* Aug 2, 2021: joined [Kitware Inc.](https://www.kitware.com/) as a [Senior Research and Development Engineer](https://www.kitware.com/usman-rafique/)
 * June 8, 2021: I have successfully defended my PhD dissertation :confetti_ball: Bonus: [the announcement tweet by my advisor](https://twitter.com/jacobsn/status/1402333514285027328?s=20&t=A7rIlYT_z_pWUba71tuE0w)
 * May 20, 2021: recognized as an [outstanding reviewer](http://cvpr2021.thecvf.com/node/184) for [CVPR 2021](http://cvpr2021.thecvf.com/)
 * April 11, 2021: [paper](http://urafique.com/un_guided/) acceptd to [NTIRE: New Trends in Image Restoration and Enhancement workshop and challenges](https://data.vision.ee.ethz.ch/cvl/ntire21/) at [CVPR 2021](http://cvpr2021.thecvf.com/)
