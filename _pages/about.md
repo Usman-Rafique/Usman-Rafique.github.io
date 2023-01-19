@@ -17,10 +17,8 @@ My old website from my teaching days is [available here](https://sites.google.co
 [Near-Remote Sensing](http://urafique.com/revisiting_nrs/)
 \
 <a href="http://urafique.com/revisiting_nrs/">
-  <img src="/images/nrs_problem.png" alt="overview figure of near remote sensing project" width="320"/> 
+  <img src="/images/nrs_thumbnail.png" alt="overview figure of near remote sensing project" width="320"/> 
 </a>
-\
-\
 \
 \
 [Diverse View Synthesis](http://urafique.com/un_guided/)
