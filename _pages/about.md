@@ -14,6 +14,15 @@ I am currently working at Kitware Inc. as a senior research and development engi
 My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/) (no longer maintained).
 
 ## Research Projects
+[Near-Remote Sensing](http://urafique.com/revisiting_nrs/)
+\
+<a href="http://urafique.com/revisiting_nrs/">
+  <img src="/images/nrs_problem.png" alt="overview figure of near remote sensing project" width="320"/> 
+</a>
+\
+\
+\
+\
 [Diverse View Synthesis](http://urafique.com/un_guided/)
 \
 <a href="http://urafique.com/un_guided/">
@@ -43,7 +52,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 
 ## Recent News
-* March 3, 2022: paper ["Revisiting Near/Remote Sensing With Geospatial Attention"](https://openaccess.thecvf.com/content/CVPR2022/html/Workman_Revisiting_NearRemote_Sensing_With_Geospatial_Attention_CVPR_2022_paper.html) ([PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Workman_Revisiting_NearRemote_Sensing_With_Geospatial_Attention_CVPR_2022_paper.pdf)) accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
+* March 3, 2022: paper ["Revisiting Near/Remote Sensing With Geospatial Attention"](http://urafique.com/revisiting_nrs/) ([PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Workman_Revisiting_NearRemote_Sensing_With_Geospatial_Attention_CVPR_2022_paper.pdf)) accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 * Feb 15, 2022: [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EA002195) on sinkhole segmentation published to [AGU Earth and Space Science Journal](https://agupubs.onlinelibrary.wiley.com/)
 * Nov 24 2021: recognized as an [outstanding reviewer](https://www.bmvc2021-virtualconference.com/people/reviewers/) for BMVC 2021. 
 * Aug 2, 2021: joined [Kitware Inc.](https://www.kitware.com/) as a [Senior Research and Development Engineer](https://www.kitware.com/usman-rafique/)
