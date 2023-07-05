@@ -9,8 +9,6 @@ redirect_from:
 ---
 I am a researcher working on computer vision and machine learning. My research areas include image synthesis, image understanding, and scene parsing and segmentation. I have been working with natural, outdoor scenes and remote sensing images (both aerial and satellite).
 
-In image synthesis, I have worked on image-to-image synthesis, multi-image fusion, and novel view synthesis. I have worked on weakly supervised segmentation and change detection for remote sensing applications.
-
 Recently, I have been working on large language models (LLMs) such as GPT. I have implemented GPT-Nano, a light-weight alternative of GPT-2 and GPT-3. I am currently working on efficient fine-tuning a 20 billion GPT model on a single GPU (blog post coming soon).
 
 
