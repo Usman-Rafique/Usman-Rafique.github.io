@@ -50,6 +50,8 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 
 ## Recent News
+* May 6, 2023: recognized as an [outstanding reviewer](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers) for [CVPR 2023](https://cvpr2023.thecvf.com/). I am very pleased to be one of 232 outstanding reviewers out of a total of 7000 reviewers.
+* Jan 20, 2023: two papers accepted at [IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2023](https://2023.ieeeigarss.org/).
 * Jan 20, 2023: wrote a [blog post: "Reflections on Reviewing Computer Vision Papers"](http://urafique.com/posts/cv_review/).
 * Aug 17, 2022: paper ["Handling Image and Label Resolution Mismatch in Remote Sensing"](https://openaccess.thecvf.com/content/WACV2023/html/Workman_Handling_Image_and_Label_Resolution_Mismatch_in_Remote_Sensing_WACV_2023_paper.html) ([PDF](https://openaccess.thecvf.com/content/WACV2023/papers/Workman_Handling_Image_and_Label_Resolution_Mismatch_in_Remote_Sensing_WACV_2023_paper.pdf)) accepted to [WACV 2023](https://wacv2023.thecvf.com/home).
 * March 3, 2022: paper ["Revisiting Near/Remote Sensing With Geospatial Attention"](http://urafique.com/revisiting_nrs/) ([PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Workman_Revisiting_NearRemote_Sensing_With_Geospatial_Attention_CVPR_2022_paper.pdf)) accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
