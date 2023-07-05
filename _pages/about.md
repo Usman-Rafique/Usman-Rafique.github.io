@@ -7,11 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a researcher working on computer vision and machine learning. Broadly, my research is about combining information from multiple images for scene understanding and image synthesis. I did PhD from University of Kentucky. During PhD, I was a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) working with [Dr. Nathan Jacobs](https://jacobsn.github.io/). My co-advisor was [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung).
+I am a researcher working on computer vision and machine learning. My research areas include image synthesis, image understanding, and scene parsing and segmentation. I have been working with natural, outdoor scenes and remote sensing images (both aerial and satellite).
 
-I am currently working at Kitware Inc. as a senior research and development engineer. This is the link to [my Kitware page](https://www.kitware.com/usman-rafique/). 
+In image synthesis, I have worked on image-to-image synthesis, multi-image fusion, and novel view synthesis. I have worked on weakly supervised segmentation and change detection for remote sensing applications.
 
-My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/) (no longer maintained).
+Recently, I have been working on large language models (LLMs) such as GPT. I have implemented GPT-Nano, a light-weight alternative of GPT-2 and GPT-3. I am currently working on efficient fine-tuning a 20 billion GPT model on a single GPU (blog post coming soon).
+
+
+During PhD from the University of Kentucky, I was a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) working with [Dr. Nathan Jacobs](https://jacobsn.github.io/). My co-advisor was [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung). My PhD research was about combining information from multiple images for scene understanding and image synthesis.
+
+After finishing PhD, I worked at [Kitware Inc.](https://www.kitware.com/) as a senior research and development engineer for 1 year and 9 months. 
+
+My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/).
+
+**Update July 2023**
+I am now looking for new opportunities :) Feel free to reach out, my contact details are on the left panel.
 
 ## Research Projects
 [Near-Remote Sensing](http://urafique.com/revisiting_nrs/)
@@ -50,6 +60,7 @@ My old website from my teaching days is [available here](https://sites.google.co
 
 
 ## Recent News
+* June 5, 2023: implemented [GPT-Nano](https://github.com/Usman-Rafique/GPT-Nano), a light-weight large language model (LLM), implemented from scratch in PyTorch.
 * May 6, 2023: recognized as an [outstanding reviewer](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers) for [CVPR 2023](https://cvpr2023.thecvf.com/). I am very pleased to be one of 232 outstanding reviewers out of a total of 7000 reviewers.
 * Jan 20, 2023: two papers accepted at [IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2023](https://2023.ieeeigarss.org/).
 * Jan 20, 2023: wrote a [blog post: "Reflections on Reviewing Computer Vision Papers"](http://urafique.com/posts/cv_review/).
