@@ -18,8 +18,11 @@ After finishing PhD, I worked at [Kitware Inc.](https://www.kitware.com/) as a s
 
 My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/).
 
-**Update July 2023**
-I am now looking for new opportunities :) Feel free to reach out, my contact details are on the left panel.
+Update July 2023
+~~I am now looking for new opportunities :) Feel free to reach out, my contact details are on the left panel.~~
+
+**Update Aug 2023**
+I have finished my job search; excited to join RnD Lab of [Bastian Solutions](https://www.bastiansolutions.com/), a Toyota Advanced Logistics Company, as a Senior Machine Learning Engineer. I will be doing research on computer vision models for robotics and automation.
 
 ## Research Projects
 [Near-Remote Sensing](http://urafique.com/revisiting_nrs/)
@@ -58,6 +61,7 @@ I am now looking for new opportunities :) Feel free to reach out, my contact det
 
 
 ## Recent News
+* Aug 21, 2023: glad to join RnD Lab of [Bastian Solutions](https://www.bastiansolutions.com/) (a Toyota Advanced Logistics Company) as a Senior Machine Learning Engineer. I will be doing research on computer vision models for robotics and automation.
 * June 5, 2023: implemented [GPT-Nano](https://github.com/Usman-Rafique/GPT-Nano), a light-weight large language model (LLM), implemented from scratch in PyTorch.
 * May 6, 2023: recognized as an [outstanding reviewer](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers) for [CVPR 2023](https://cvpr2023.thecvf.com/). I am very pleased to be one of 232 outstanding reviewers out of a total of 7000 reviewers.
 * Jan 20, 2023: two papers accepted at [IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2023](https://2023.ieeeigarss.org/).
