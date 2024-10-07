@@ -7,22 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a researcher working on computer vision and machine learning. My research areas include image synthesis, image understanding, and scene parsing and segmentation. I have been working with natural, outdoor scenes and remote sensing images (both aerial and satellite).
+### Research Focus
+I am a researcher specializing in computer vision and machine learning. My primary areas of interest include image synthesis, image segmentation and understanding, and perception for robotics. My work has involved diverse settings, including natural outdoor scenes, remote sensing, and computer vision for logistics and warehouse robots.
 
-Recently, I have been working on large language models (LLMs) such as GPT. I have implemented GPT-Nano, a light-weight alternative of GPT-2 and GPT-3. I am currently working on efficient fine-tuning a 20 billion GPT model on a single GPU (blog post coming soon).
+Recently, I've been exploring large language models (LLMs) such as GPTs. Notable projects include:
 
+- [GPT-Nano](https://github.com/Usman-Rafique/GPT-Nano): A lightweight implementation of GPT
+- [LLM-Forge](https://github.com/Usman-Rafique/llm_forge): A playground for building practical LLMs with limited compute resources
 
-During PhD from the University of Kentucky, I was a member of the [Multimodal Vision Research Lab](http://mvrl.cs.uky.edu/) working with [Dr. Nathan Jacobs](https://jacobsn.github.io/). My co-advisor was [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung). My PhD research was about combining information from multiple images for scene understanding and image synthesis.
+### Academic Background
+I completed my PhD at the University of Kentucky, where I was a member of the Multimodal Vision Research Lab. My research focused on combining information from multiple images for scene understanding and image synthesis. My PhD advisors were [Dr. Nathan Jacobs](https://jacobsn.github.io/) and [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung)
 
-After finishing PhD, I worked at [Kitware Inc.](https://www.kitware.com/) as a senior research and development engineer for 1 year and 9 months. 
+### Professional Experience
 
-My old website from my teaching days is [available here](https://sites.google.com/site/mtsengg/).
+- Current Position (Since Aug 2023): Senior Machine Learning Engineer at Bastian Solutions RnD
+  - Developing computer vision and machine learning solutions for autonomous robotic systems in warehouses and logistics.
 
-Update July 2023
-~~I am now looking for new opportunities :) Feel free to reach out, my contact details are on the left panel.~~
+- Aug 2021 - May 2023: Senior Research and Development Engineer at Kitware Inc.
+  - Worked on large-scale change detection from overhead images and person identification and image restoration.
 
-**Update Aug 2023**
-I have finished my job search; excited to join RnD Lab of [Bastian Solutions](https://www.bastiansolutions.com/), a Toyota Advanced Logistics Company, as a Senior Machine Learning Engineer. I will be doing research on computer vision models for robotics and automation.
+### Old Teaching Website
+
+My old website, from my teaching days is [available here](https://sites.google.com/site/mtsengg/).
+
 
 ## Research Projects
 [Near-Remote Sensing](http://urafique.com/revisiting_nrs/)
@@ -61,6 +68,8 @@ I have finished my job search; excited to join RnD Lab of [Bastian Solutions](ht
 
 
 ## Recent News
+* Sep 17, 2024: released [LLM-Forge Library on Github](https://github.com/Usman-Rafique/llm_forge), a playground for building and training practical LLMs with limited computational resources.
+* May 23, 2024: recognized as an [outstanding reviewer for CVPR 2024](https://csdl-downloads.ieeecomputer.org/proceedings/cvpr/2024/5300/00/530000z352.pdf?Expires=1728321914&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2N2cHIvMjAyNC81MzAwLzAwLzUzMDAwMHozNTIucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI4MzIxOTE0fX19XX0_&Signature=CmCV2C~k3RSE0-7hJITkZFc9gVNun6lvSV~FCOEoktgknXrzvH-iwxoVjWxV-xiFKcbNEXCdMwklmBc3gY5oHYoTw5V0JApMfZtxnpIhW8mAa3LkrnHlP-uTlj16Y~s056EQPhBMHj1ohc~JMsgsfKC0OQtME6of7TJZNSYuzvJYB-GcmZCKo-Rnu9xP77PiHFTmeCrQHGrd60MAY486FEbzUnY9hoq7WcVSVJX3SWGlQ-APF2XsyVuKsEF9rejo-dyxeTiS-rWw53PbkWUypwkNs1Iu2lC1MN7ERWwuxRrkhBbiHjvaj4G1aDtmEwVB7-Qwl2~0DQ3iVBg2~9n4pQ__&Key-Pair-Id=K12PMWTCQBDMDT). Pleased to be among top 2% of 9872 reviewers.
 * Aug 21, 2023: glad to join RnD Lab of [Bastian Solutions](https://www.bastiansolutions.com/) (a Toyota Advanced Logistics Company) as a Senior Machine Learning Engineer. I will be doing research on computer vision models for robotics and automation.
 * June 5, 2023: implemented [GPT-Nano](https://github.com/Usman-Rafique/GPT-Nano), a light-weight large language model (LLM), implemented from scratch in PyTorch.
 * May 6, 2023: recognized as an [outstanding reviewer](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers) for [CVPR 2023](https://cvpr2023.thecvf.com/). I am very pleased to be one of 232 outstanding reviewers out of a total of 7000 reviewers.
