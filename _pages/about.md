@@ -7,24 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Research Focus
-I am a researcher specializing in computer vision and machine learning. My primary areas of interest include image synthesis, image segmentation and understanding, and perception for robotics. My work has involved diverse settings, including natural outdoor scenes, remote sensing, and computer vision for logistics and warehouse robots.
+### About Usman
+I am a Senior Machine Learning Engineer with a demonstrated history of applying cutting-edge research to real-world problems. I currently work at Bastian Solutions (Toyota), where I develop computer vision and machine learning models for autonomous robotic systems.  
 
-Recently, I've been exploring large language models (LLMs) such as GPTs. Notable projects include:
+Before this, I served as a Senior Research and Development Engineer at Kitware Inc., where I focused on diverse computer vision challenges, including change detection from overhead imagery, person identification, novel view synthesis, and atmospheric turbulence correction.  
 
-- [GPT-Nano](https://github.com/Usman-Rafique/GPT-Nano): A lightweight implementation of GPT
-- [LLM-Forge](https://github.com/Usman-Rafique/llm_forge): A playground for building practical LLMs with limited compute resources
+My practical experience is complemented by a strong academic foundation. I earned my Ph.D. in Electrical Engineering from the University of Kentucky, where my research focused on weakly supervised deep learning methods for image synthesis, semantic segmentation, and change detection.  
+
+I'm passionate about staying at the forefront of AI advancements. You can find examples of my work with Large Language Models (LLMs) on my Github, for example: [LLM-Forge](https://github.com/Usman-Rafique/llm_forge): A playground for building practical LLMs with limited compute resources 
 
 ### Academic Background
 I completed my PhD at the University of Kentucky, where I was a member of the Multimodal Vision Research Lab. My research focused on combining information from multiple images for scene understanding and image synthesis. My PhD advisors were [Dr. Nathan Jacobs](https://jacobsn.github.io/) and [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung)
 
 ### Professional Experience
+- Senior Machine Learning Engineer, Bastian Solutions (Toyota): 2023 - present
+  - Developing computer vision and machine learning solutions for autonomous robotic systems.
 
-- Current Position (Since Aug 2023): Senior Machine Learning Engineer at Bastian Solutions RnD
-  - Developing computer vision and machine learning solutions for autonomous robotic systems in warehouses and logistics.
+- Senior Research and Development Engineer, Kitware Inc.: Aug 2021 - May 2023
+  - Conducted research on change detection, person identification, and novel view synthesis.
 
-- Aug 2021 - May 2023: Senior Research and Development Engineer at Kitware Inc.
-  - Worked on large-scale change detection from overhead images and person identification and image restoration.
 
 ### Old Teaching Website
 
@@ -68,6 +69,8 @@ My old website, from my teaching days is [available here](https://sites.google.c
 
 
 ## Recent News
+* Feb 1, 2025: invited to be an Area Chair (AC) at [ICCV 2025](https://iccv.thecvf.com/)
+* Jan 15, 2025: recognized as an [outstanding reviewer for WACV 2025](https://wacv2025.thecvf.com/reviewers/)
 * Sep 17, 2024: released [LLM-Forge Library on Github](https://github.com/Usman-Rafique/llm_forge), a playground for building and training practical LLMs with limited computational resources.
 * May 23, 2024: recognized as an [outstanding reviewer for CVPR 2024](https://csdl-downloads.ieeecomputer.org/proceedings/cvpr/2024/5300/00/530000z352.pdf?Expires=1728321914&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2N2cHIvMjAyNC81MzAwLzAwLzUzMDAwMHozNTIucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI4MzIxOTE0fX19XX0_&Signature=CmCV2C~k3RSE0-7hJITkZFc9gVNun6lvSV~FCOEoktgknXrzvH-iwxoVjWxV-xiFKcbNEXCdMwklmBc3gY5oHYoTw5V0JApMfZtxnpIhW8mAa3LkrnHlP-uTlj16Y~s056EQPhBMHj1ohc~JMsgsfKC0OQtME6of7TJZNSYuzvJYB-GcmZCKo-Rnu9xP77PiHFTmeCrQHGrd60MAY486FEbzUnY9hoq7WcVSVJX3SWGlQ-APF2XsyVuKsEF9rejo-dyxeTiS-rWw53PbkWUypwkNs1Iu2lC1MN7ERWwuxRrkhBbiHjvaj4G1aDtmEwVB7-Qwl2~0DQ3iVBg2~9n4pQ__&Key-Pair-Id=K12PMWTCQBDMDT). Pleased to be among top 2% of 9872 reviewers.
 * Aug 21, 2023: glad to join RnD Lab of [Bastian Solutions](https://www.bastiansolutions.com/) (a Toyota Advanced Logistics Company) as a Senior Machine Learning Engineer. I will be doing research on computer vision models for robotics and automation.
