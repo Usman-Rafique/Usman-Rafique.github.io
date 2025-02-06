@@ -16,6 +16,20 @@ My practical experience is complemented by a strong academic foundation. I earne
 
 I'm passionate about staying at the forefront of AI advancements. You can find examples of my work with Large Language Models (LLMs) on my Github, for example: [LLM-Forge](https://github.com/Usman-Rafique/llm_forge): A playground for building practical LLMs with limited compute resources 
 
+#### Areas of Expertise
+
+**Autonomous Robotics**: Developing and deploying computer vision systems for warehouse robots, enabling tasks like object picking and depalletizing.
+
+**Continual Learning**: Implementing AI systems that continuously learn and adapt to new data without forgetting previous knowledge.
+
+**Production ML**: Designing, implementing, and deploying machine learning models for real-time applications in production environments.
+
+**Multi-modal Understanding**: Combining data from different sources, such as aerial and ground-level imagery, to gain a more comprehensive understanding of a scene.
+
+**Vision-Language Models**: Integrating computer vision and natural language processing to create AI systems that can understand both images and text.
+
+**Large-Scale Image Processing**: Building and deploying systems for processing and analyzing large volumes of satellite and aerial imagery.
+
 ### Academic Background
 I completed my PhD at the University of Kentucky, where I was a member of the Multimodal Vision Research Lab. My research focused on combining information from multiple images for scene understanding and image synthesis. My PhD advisors were [Dr. Nathan Jacobs](https://jacobsn.github.io/) and [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung)
 
