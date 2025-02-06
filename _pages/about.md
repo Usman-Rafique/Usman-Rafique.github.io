@@ -16,7 +16,7 @@ My practical experience is complemented by a strong academic foundation. I earne
 
 I'm passionate about staying at the forefront of AI advancements. You can find examples of my work with Large Language Models (LLMs) on my Github, for example: [LLM-Forge](https://github.com/Usman-Rafique/llm_forge): A playground for building practical LLMs with limited compute resources 
 
-#### Areas of Expertise
+My areas of expertise include:
 
 **Autonomous Robotics**: Developing and deploying computer vision systems for warehouse robots, enabling tasks like object picking and depalletizing.
 
