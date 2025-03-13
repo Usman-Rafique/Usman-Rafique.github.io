@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### About Usman
-I am a Senior Machine Learning Engineer with a demonstrated history of applying cutting-edge research to real-world problems. I currently work at Bastian Solutions (Toyota), where I develop computer vision and machine learning models for autonomous robotic systems.  
+I am a Senior Machine Learning Engineer with a demonstrated history of applying cutting-edge research to real-world problems. I currently work at Zoox, where I develop machine learning models for autonomous robo-taxis.  
 
 Before this, I served as a Senior Research and Development Engineer at Kitware Inc., where I focused on diverse computer vision challenges, including change detection from overhead imagery, person identification, novel view synthesis, and atmospheric turbulence correction.  
 
@@ -83,6 +83,7 @@ My old website, from my teaching days is [available here](https://sites.google.c
 
 
 ## Recent News
+* Feb 10, 2025: joined Zoox Inc. as a Senior Software Engineer in the Machine Learning team. [LinkedIn Post](https://www.linkedin.com/posts/m-usmanrafique_autonomy-machinelearning-newjob-activity-7297881566792364033-0eHI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAFTRYUB-IK39fPh37OOYox45j0wrICvs4g)
 * Feb 1, 2025: invited to be an Area Chair (AC) at [ICCV 2025](https://iccv.thecvf.com/)
 * Jan 15, 2025: recognized as an [outstanding reviewer for WACV 2025](https://wacv2025.thecvf.com/reviewers/)
 * Sep 17, 2024: released [LLM-Forge Library on Github](https://github.com/Usman-Rafique/llm_forge), a playground for building and training practical LLMs with limited computational resources.
