@@ -88,6 +88,8 @@ My old website, from my teaching days is [available here](https://sites.google.c
 
 
 ## Recent News
+* Oct 9, 2025: published a post [ICCV 2025 Area Chair Experience](urafique.com/posts/ac_experience)
+* Aug 1, 2025: invited to serve as Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * Feb 10, 2025: joined Zoox Inc. as a Senior Software Engineer in the Machine Learning team. [LinkedIn Post](https://www.linkedin.com/posts/m-usmanrafique_autonomy-machinelearning-newjob-activity-7297881566792364033-0eHI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAFTRYUB-IK39fPh37OOYox45j0wrICvs4g)
 * Feb 1, 2025: invited to be an Area Chair (AC) at [ICCV 2025](https://iccv.thecvf.com/)
 * Jan 15, 2025: recognized as an [outstanding reviewer for WACV 2025](https://wacv2025.thecvf.com/reviewers/)
