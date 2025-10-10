@@ -12,7 +12,7 @@ tags:
 # Blog: ICCV 2025 Area Chair Experience
 
 # ![](https://github.com/Usman-Rafique/Usman-Rafique.github.io/blob/bd46b856a416d9a81848ce42e792c6e4e21c195f/images/Bixby_bridge.png)
-*Bixby Bridge, Monterey Bay, CA. Photo taken after AC duties*
+*Bixby Creek Bridge, Monterey Bay, CA. Photo taken after AC duties, Sep 2025*
 
 
 I was invited to serve as an Area Chair (AC) at the International Conference on Computer Vision (ICCV) 2025 , which was my first such experience. I oversaw the review process for a batch of 20 papers. After authors spent days preparing their rebuttals, how many of those papers sparked a meaningful discussion among reviewers?
