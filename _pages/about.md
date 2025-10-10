@@ -8,33 +8,38 @@ redirect_from:
   - /about.html
 ---
 ### About Usman
-I am a Senior Machine Learning Engineer with a demonstrated history of applying cutting-edge research to real-world problems. I currently work at Zoox, where I develop machine learning models for autonomous robo-taxis.  
+I am a Senior Machine Learning Engineer with a demonstrated history of applying cutting-edge research to solve real-world problems. In my current role at Zoox, I am focused on Data Optimization and Machine Learning for the Behavior Autonomy of our cool robo-taxi.
 
-Before this, I served as a Senior Research and Development Engineer at Kitware Inc., where I focused on diverse computer vision challenges, including change detection from overhead imagery, person identification, novel view synthesis, and atmospheric turbulence correction.  
+Previously, I was a Senior Machine Learning Engineer at Bastian Solutions (a Toyota company) from 2023 to 2024, where I developed and deployed state-of-the-art computer vision and machine learning solutions for autonomous pick-and-place robots. Before that, I served as a Senior Research and Development Engineer at Kitware Inc. (2021-2023), tackling diverse computer vision challenges such as change detection from overhead imagery, person identification, novel view synthesis, and atmospheric turbulence correction.
 
-My practical experience is complemented by a strong academic foundation. I earned my Ph.D. in Electrical Engineering from the University of Kentucky, where my research focused on weakly supervised deep learning methods for image synthesis, semantic segmentation, and change detection.  
+My practical experience is complemented by a strong academic foundation. I earned my Ph.D. in Electrical Engineering from the University of Kentucky, with research focused on weakly supervised deep learning methods for image synthesis, semantic segmentation, and change detection.
 
-I'm passionate about staying at the forefront of AI advancements. You can find examples of my work with Large Language Models (LLMs) on my Github, for example: [LLM-Forge](https://github.com/Usman-Rafique/llm_forge): A playground for building practical LLMs with limited compute resources 
+I’m passionate about staying at the forefront of AI advancements. You can find examples of my work with Large Language Models (LLMs) on my Github, including [LLM-Forge](https://github.com/Usman-Rafique/llm_forge), a playground for building practical LLMs with limited compute resources.
 
 My areas of expertise include:
 
-**Autonomous Robotics**: Developing and deploying computer vision systems for warehouse robots, enabling tasks like object picking and depalletizing.
+- **Data-Centric AI for Autonomous Behavior**: Architecting data optimization strategies for learned behavior models that control robo-taxi trajectory. My work involves curating large-scale datasets to ensure full coverage of common and edge-case driving scenarios, maximizing model performance while managing data size for efficient, practical training.
 
-**Continual Learning**: Implementing AI systems that continuously learn and adapt to new data without forgetting previous knowledge.
+- **Computer Vision for Autonomous Systems**: Developing and deploying robust computer vision and ML systems for autonomous robots. This enables complex tasks in dynamic environments, such as object picking, depalletizing, and real-time scene understanding.
 
-**Production ML**: Designing, implementing, and deploying machine learning models for real-time applications in production environments.
+- **Continual Learning**: Implementing AI systems that continuously learn and adapt to new data without forgetting previous knowledge.
 
-**Multi-modal Understanding**: Combining data from different sources, such as aerial and ground-level imagery, to gain a more comprehensive understanding of a scene.
+- **Production ML: Designing**, implementing, and deploying machine learning models for real-time applications in production environments.
 
-**Vision-Language Models**: Integrating computer vision and natural language processing to create AI systems that can understand both images and text.
+- **Multi-modal Understanding**: Combining data from different sources, such as aerial and ground-level imagery, to gain a more comprehensive understanding of a scene.
 
-**Large-Scale Image Processing**: Building and deploying systems for processing and analyzing large volumes of satellite and aerial imagery.
+- **Vision-Language Models**: Integrating computer vision and natural language processing to create AI systems that can understand both images and text.
+
+- **Large-Scale Image Processing**: Building and deploying systems for processing and analyzing large volumes of satellite and aerial imagery.
 
 ### Academic Background
 I completed my PhD at the University of Kentucky, where I was a member of the Multimodal Vision Research Lab. My research focused on combining information from multiple images for scene understanding and image synthesis. My PhD advisors were [Dr. Nathan Jacobs](https://jacobsn.github.io/) and [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung)
 
 ### Professional Experience
-- Senior Machine Learning Engineer, Bastian Solutions (Toyota): 2023 - present
+- Senior Machine Learning Engineer, Zoox: Feb 2024 - present
+  - Developing machine learning solutions for autonomous robo-taxi
+
+- Senior Machine Learning Engineer, Bastian Solutions (Toyota): Aug 2023 - Feb 2024
   - Developing computer vision and machine learning solutions for autonomous robotic systems.
 
 - Senior Research and Development Engineer, Kitware Inc.: Aug 2021 - May 2023
@@ -83,6 +88,8 @@ My old website, from my teaching days is [available here](https://sites.google.c
 
 
 ## Recent News
+* Oct 9, 2025: published a post [ICCV 2025 Area Chair Experience](urafique.com/posts/ac_experience)
+* Aug 1, 2025: invited to serve as Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * Feb 10, 2025: joined Zoox Inc. as a Senior Software Engineer in the Machine Learning team. [LinkedIn Post](https://www.linkedin.com/posts/m-usmanrafique_autonomy-machinelearning-newjob-activity-7297881566792364033-0eHI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAFTRYUB-IK39fPh37OOYox45j0wrICvs4g)
 * Feb 1, 2025: invited to be an Area Chair (AC) at [ICCV 2025](https://iccv.thecvf.com/)
 * Jan 15, 2025: recognized as an [outstanding reviewer for WACV 2025](https://wacv2025.thecvf.com/reviewers/)
