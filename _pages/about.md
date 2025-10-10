@@ -14,7 +14,7 @@ Previously, I was a Senior Machine Learning Engineer at Bastian Solutions (a Toy
 
 My practical experience is complemented by a strong academic foundation. I earned my Ph.D. in Electrical Engineering from the University of Kentucky, with research focused on weakly supervised deep learning methods for image synthesis, semantic segmentation, and change detection.
 
-I’m passionate about staying at the forefront of AI advancements. You can find examples of my work with Large Language Models (LLMs) on my Github, including [LLM-Forge](), a playground for building practical LLMs with limited compute resources.
+I’m passionate about staying at the forefront of AI advancements. You can find examples of my work with Large Language Models (LLMs) on my Github, including [LLM-Forge](https://github.com/Usman-Rafique/llm_forge), a playground for building practical LLMs with limited compute resources.
 
 My areas of expertise include:
 
