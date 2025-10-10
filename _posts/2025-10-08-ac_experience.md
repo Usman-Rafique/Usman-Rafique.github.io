@@ -9,11 +9,12 @@ tags:
   - cvpr
   - area chair
 ---
-# Blog: ICCV 2025 Area Chair Experience
+# ICCV 2025 Area Chair Experience
 
-# ![](https://github.com/Usman-Rafique/Usman-Rafique.github.io/blob/bd46b856a416d9a81848ce42e792c6e4e21c195f/images/Bixby_bridge.png)
+<img src="https://github.com/Usman-Rafique/Usman-Rafique.github.io/blob/b90b8c064b27111ab486e5abee88b24670a122c7/images/Bixby_bridge.png" alt="A picture of a high bridge, with ocean to the right side" width="900"/>
 *Bixby Creek Bridge, Monterey Bay, CA. Photo taken after AC duties, Sep 2025*
 
+&nbsp;
 
 I was invited to serve as an Area Chair (AC) at the International Conference on Computer Vision (ICCV) 2025 , which was my first such experience. I oversaw the review process for a batch of 20 papers. After authors spent days preparing their rebuttals, how many of those papers sparked a meaningful discussion among reviewers?
 
