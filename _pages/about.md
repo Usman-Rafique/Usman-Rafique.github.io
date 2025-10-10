@@ -36,7 +36,10 @@ My areas of expertise include:
 I completed my PhD at the University of Kentucky, where I was a member of the Multimodal Vision Research Lab. My research focused on combining information from multiple images for scene understanding and image synthesis. My PhD advisors were [Dr. Nathan Jacobs](https://jacobsn.github.io/) and [Dr. Samson Cheung](https://sites.google.com/view/dr-cheung)
 
 ### Professional Experience
-- Senior Machine Learning Engineer, Bastian Solutions (Toyota): 2023 - present
+- Senior Machine Learning Engineer, Zoox: Feb 2024 - present
+  - Developing machine learning solutions for autonomous robo-taxi
+
+- Senior Machine Learning Engineer, Bastian Solutions (Toyota): Aug 2023 - Feb 2024
   - Developing computer vision and machine learning solutions for autonomous robotic systems.
 
 - Senior Research and Development Engineer, Kitware Inc.: Aug 2021 - May 2023
