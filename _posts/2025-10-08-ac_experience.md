@@ -11,8 +11,8 @@ tags:
 ---
 # ICCV 2025 Area Chair Experience
 
-<img src="https://github.com/Usman-Rafique/Usman-Rafique.github.io/blob/b90b8c064b27111ab486e5abee88b24670a122c7/images/Bixby_bridge.png" alt="A picture of a high bridge, with ocean to the right side" width="900"/>
-*Bixby Creek Bridge, Monterey Bay, CA. Photo taken after AC duties, Sep 2025*
+<img src="/images/Bixby_bridge.png" alt="A picture of a high bridge, with ocean to the right side" width="900"/>
+Bixby Creek Bridge, Monterey Bay, CA. Photo taken after AC duties, Sep 2025
 
 &nbsp;
 
