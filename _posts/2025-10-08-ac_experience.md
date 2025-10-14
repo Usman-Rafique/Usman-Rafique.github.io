@@ -14,7 +14,11 @@ tags:
 <img src="/images/Bixby_bridge.png" alt="A picture of a high bridge, with ocean to the right side" width="900"/>
 Bixby Creek Bridge, Monterey Bay, CA. Photo taken after AC duties, Sep 2025
 
-&nbsp;
+***
+
+_Edit Note (October 13, 2025): Based on community feedback and to provide clearer context, I have revised section #2 below. My observation about acceptance rates was based on an informal, implicit mention during my single AC triplet meeting, and should not be interpreted as a formal or widespread conference policy._
+
+***
 
 I was invited to serve as an Area Chair (AC) at the International Conference on Computer Vision (ICCV) 2025 , which was my first such experience. I oversaw the review process for a batch of 20 papers. After authors spent days preparing their rebuttals, how many of those papers sparked a meaningful discussion among reviewers?
 
@@ -32,11 +36,13 @@ My experience (as an AC now, and as a reviewer for the last few years) has been 
 
 At ICCV, I had to send many reminders to get the discussion started. Given how much time and effort this phase goes into from both authors and ACs, I am increasingly of the opinion that the rebuttal and post-rebuttal discussion phase are not as useful as we hope if meaningful engagement is so rare. Notable researchers, [like Dima Damen, have raised similar concerns](https://x.com/dimadamen/status/1940628759314682086?t=M926aYi5B7-puzHjYWG7zA&s=19).
 
-**2\. The "Soft Cap" on Acceptance Rates Exists**
+**2\. An Anecdote on Acceptance Rate**
 
 For computer vision conferences like ICCV and CVPR, the standard process is to form a triplet of ACs, two ACs and a senior AC, who work together to finalize decisions. My AC triplet meeting was held on a Zoom call on a weekend with ACs in different timezones, and the process managed by the senior AC was smooth and efficient.
 
-This was the first time I encountered a loose guideline on acceptance percentage. While there were no strict recommendations, the acceptance rate was being tracked and used as a factor in our discussions. The scrutiny was asymmetrical: a batch having more than 30% acceptance might be examined carefully, but batches with much lower acceptance rates were not reviewed with the same lens. This asymmetry might create an implicit pressure to find reasons to reject borderline papers.
+In this meeting, the topic of acceptance rates came up informally. There were no strict guidelines or explicit quotas communicated to us. However, as we discussed our paper batches, the acceptance percentage for each of us was being mentioned.
+
+My perception was that this created a subtle, asymmetrical scrutiny: a batch trending above a certain percentage might invite a bit more discussion, while batches with much lower rates would not. To be perfectly clear, this was a single observation from one conversation, not an official policy. Still, it was an interesting first-hand experience of how even an informal awareness of such metrics might create implicit pressure when deciding the fate of borderline papers.
 
 **3\. Bidding for Reviewers is a Game of Strategy**
 
