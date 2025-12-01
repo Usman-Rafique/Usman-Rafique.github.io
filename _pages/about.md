@@ -95,7 +95,7 @@ My old website, from my teaching days is [available here](https://sites.google.c
 
 
 ## Recent News
-* Nov 17, 2025: released paper [On the Fundamental Limits of LLMs at Scale](https://urafique.com/scaling_llm) [Paper](https://arxiv.org/abs/2511.12869)[PDF](https://arxiv.org/pdf/2511.12869)
+* Nov 17, 2025: released paper [On the Fundamental Limits of LLMs at Scale](https://urafique.com/scaling_llm): [Paper](https://arxiv.org/abs/2511.12869)  ([PDF](https://arxiv.org/pdf/2511.12869))
 * Oct 9, 2025: published a post [ICCV 2025 Area Chair Experience](https://urafique.com/posts/ac_experience/)
 * Aug 1, 2025: invited to serve as Program Committee for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)
 * Feb 10, 2025: joined Zoox Inc. as a Senior Software Engineer in the Machine Learning team. [LinkedIn Post](https://www.linkedin.com/posts/m-usmanrafique_autonomy-machinelearning-newjob-activity-7297881566792364033-0eHI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAFTRYUB-IK39fPh37OOYox45j0wrICvs4g)
